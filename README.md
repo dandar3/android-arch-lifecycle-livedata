@@ -10,7 +10,8 @@ https://maven.google.com/android/arch/lifecycle/livedata/1.1.1/livedata-1.1.1.aa
 - [dandar3/android-arch-lifecycle-livedata-core](https://github.com/dandar3/android-arch-lifecycle-livedata-core/tree/1.1.1)
 
 **References:**
-
+- https://developer.android.com/topic/libraries/architecture/release-notes.html#march_21_2018
+- https://developer.android.com/topic/libraries/architecture/index.html
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
