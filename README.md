@@ -11,6 +11,7 @@ https://maven.google.com/android/arch/lifecycle/livedata/1.1.1/livedata-1.1.1.aa
 
 **References:**
 
+
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
   https://raw.githubusercontent.com/dandar3/android-arch-lifecycle-livedata/1.1.1/.projectset
